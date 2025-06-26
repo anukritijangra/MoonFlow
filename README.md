@@ -2,13 +2,11 @@
 
 **MoonFlow** is a modern, fullstack period tracker app built using the MERN stack. It helps users easily track their menstrual cycles, interpret blood color patterns, analyze trends, and learn more about their reproductive health — all with a clean, user-friendly interface.
 
----
 
 ## About the Project
 
 MoonFlow empowers individuals by giving them control and clarity over their menstrual health. From tracking periods and symptoms to learning what different blood colors indicate — MoonFlow is more than just a tracker; it's a personal cycle assistant.
 
----
 
 ## Features
 
@@ -18,7 +16,6 @@ MoonFlow empowers individuals by giving them control and clarity over their mens
 - **Learn Section** — Education on period health, blood changes, symptoms, and more
 - **Settings** — Customize average cycle length and app behavior
 
----
 
 ## Tech Stack
 
@@ -27,7 +24,6 @@ MoonFlow empowers individuals by giving them control and clarity over their mens
 - **Database**: MongoDB
 - **Tools**: Git, GitHub, Postman, VS Code
 
----
 
 ## Folder Structure
 
@@ -47,7 +43,6 @@ MoonFlow/
 └── README.md
 ```
 
----
 
 ## Installation & Running Locally
 
@@ -78,7 +73,6 @@ npm start
 
 **Note:** Make sure you have MongoDB installed and running locally (or set up with MongoDB Atlas).
 
----
 
 ## 💡 Future Enhancements
 
@@ -88,7 +82,6 @@ npm start
 - 📬 Email alerts & cycle predictions
 - 📈 Advanced analytics dashboard
 
----
 
 ## 🙋‍♀️ Author
 
@@ -96,10 +89,8 @@ Made with love & logic by **Anukriti Jangra** 💻☕
 
 If you liked the project, feel free to leave a ⭐️ and connect!
 
----
 
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
