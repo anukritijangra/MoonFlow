@@ -12,11 +12,11 @@ MoonFlow empowers individuals by giving them control and clarity over their mens
 
 ## Features
 
-- 📆 **Cycle Tracking** — Easily log period start dates and view your history
-- 🎨 **Blood Color Analysis** — Insights on what different period blood colors may indicate
-- 📊 **Stats Dashboard** — Track cycle length, bleeding days, and view trends over time
-- 📚 **Learn Section** — Education on period health, blood changes, symptoms, and more
-- ⚙️ **Settings** — Customize average cycle length and app behavior
+- **Cycle Tracking** — Easily log period start dates and view your history
+- **Blood Color Analysis** — Insights on what different period blood colors may indicate
+- **Stats Dashboard** — Track cycle length, bleeding days, and view trends over time
+- **Learn Section** — Education on period health, blood changes, symptoms, and more
+- **Settings** — Customize average cycle length and app behavior
 
 ---
 
