@@ -74,18 +74,18 @@ npm start
 **Note:** Make sure you have MongoDB installed and running locally (or set up with MongoDB Atlas).
 
 
-## 💡 Future Enhancements
+## Future Enhancements
 
-- 🔐 User authentication (login/signup)
-- 📱 Mobile responsive UI
-- 🔔 Period reminder notifications
-- 📬 Email alerts & cycle predictions
-- 📈 Advanced analytics dashboard
+- User authentication (login/signup)
+- Mobile responsive UI
+- Period reminder notifications
+- Email alerts & cycle predictions
+- Advanced analytics dashboard
 
 
-## 🙋‍♀️ Author
+## Author
 
-Made with love & logic by **Anukriti Jangra** 💻☕
+Made with love & logic by **Anukriti Jangra** 
 
 If you liked the project, feel free to leave a ⭐️ and connect!
 
