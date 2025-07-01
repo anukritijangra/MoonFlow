@@ -89,8 +89,3 @@ Made with love & logic by **Anukriti Jangra**
 
 If you liked the project, feel free to leave a ⭐️ and connect!
 
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
